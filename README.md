@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[<img src="https://i.ibb.co/ZBhQdq5/Screenshot-2023-04-22-121045.jpg" width="50%">]("https://medium.com/ieee-women-in-engineering-vit/dna-computing-146e24aaf4e4")
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
