@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tealnshack&label=Profile%20views&color=0e75b6&style=flat" alt="tealnshack" /> </p>
 
-- 🌱 I’m currently learning **React Native, Flutter and Machine Learning**
+- 🌱 I’m currently learning **NLP and Fullstack Development**
 
-- 👯 I’m looking to collaborate on **Data Science projects that addresses real world problems**
+- 👯 I’m looking to collaborate on **AI & Data Science projects that addresses real world problems**
 
 - 📝 I regularly write articles on [https://medium.com/@navami.shiv](https://medium.com/@navami.shiv)
 
-- 💬 Ask me about **R, Arduino, Data Analytics**
+- 💬 Ask me about **Python, Arduino, Data Analytics and AI**
 
 - 📫 How to reach me **navami.shiv@gmail.com**
 
-- ⚡ Fun fact **I love buying crystals**
+- ⚡ Fun fact **I love buying crystals and I think poop humor is hilarious**
 
 
 
