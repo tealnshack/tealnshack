@@ -1,7 +1,7 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 <h1 align="center">Hi 👋, I'm Navami Shivrinder</h1>
-<h3 align="center">A passionate data analyst and software developer from India</h3>
+<h3 align="center">A passionate AI Engineer and Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tealnshack&label=Profile%20views&color=0e75b6&style=flat" alt="tealnshack" /> </p>
