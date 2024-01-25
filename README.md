@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tealnshack&label=Profile%20views&color=0e75b6&style=flat" alt="tealnshack" /> </p>
 
-- 🌱 I’m currently learning **NLP and Fullstack Development**
+- 🌱 I’m currently learning **Cognitive AI and iOS Development**
 
 - 👯 I’m looking to collaborate on **AI & Data Science projects that addresses real world problems**
   
